@@ -22,7 +22,7 @@ Acredito que a prática constante é o segredo, por isso estou sempre codificand
 
 <a href="https://www.instagram.com/mynameisfabricio/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> 
 <a href="https://www.linkedin.com/in/mynameisfabricio/"><img alt="logo LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"/></a>  
-<a href="mailto:contato@mynameisfabricio.com.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@mynameisfabricio.com.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a>  
+<a href="mailto:fabr@iicio.com.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@mynameisfabricio.com.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a>  
 
 ---
 
