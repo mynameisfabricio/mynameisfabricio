@@ -60,5 +60,3 @@ Tecnologias: *HTML, CSS, JavaScript*
 ---
 
 © 2025 **mynameisfabricio**. Todos os direitos reservados.  
-👨🏽‍💻 Desenvolvedor Full Stack | Patrocínio IICIO.  
-🌐 Site oficial: **[www.mynameisfabricio.com.br](https://www.mynameisfabricio.com.br)**
