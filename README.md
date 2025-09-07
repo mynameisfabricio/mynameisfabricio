@@ -1,7 +1,3 @@
-# GitHub do Fabrício  
-
-![cabeçalho do README do GitHub do Fabrício](https://www.mynameisfabricio.com.br/github/capa-readme-github.png)
-
 ## <code>Olá, querido(a) visitante! 👋</code>  
 
 Sou o **Fabrício**, desenvolvedor **Full Stack**. Tenho 23 anos e atuo como programador há 1 ano e meio.  
