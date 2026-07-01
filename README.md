@@ -12,7 +12,7 @@ Minha especialidade é transformar projetos em realidade, utilizando tecnologias
 Utilizo o GitHub principalmente para versionamento e armazenamento de código. Se você quer ver as aplicações rodando na prática, acesse meu portfólio:
 
 <div align="left">
-  <a href="https://fabr.iicio.com.br">
+  <a href="https://mynameisfabricio.vercel.app">
     <img src="https://img.shields.io/static/v1?label=ACESSE%20AGORA&message=fabr.iicio.com.br&logo=google-chrome&logoColor=white&color=0078D4&style=for-the-badge"/>
   </a>
 </div>
