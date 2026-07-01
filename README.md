@@ -14,7 +14,7 @@ Embora utilize o GitHub para versionamento dos meus projetos, meu portfólio re�
 
 <div align="left">
   <a href="https://fabr.iicio.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=ACESSE%20MEU&message=PORTFÓLIO&logo=google-chrome&logoColor=white&color=0078D4&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=ACESSE%20MEU&message=PORTFÓLIO&logo=google-chrome&logoColor=white&color=0078D4&style=for-the-badge](https://img.shields.io/static/v1?label=ACESSE%20MEU&message=PORTF%C3%93LIO&logo=google-chrome&logoColor=white&color=0078D4&style=for-the-badge"/>
   </a>
 </div>
 
