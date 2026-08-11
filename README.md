@@ -5,34 +5,72 @@
 </p>
 
 <p align="center">
-  🚀 Desenvolvimento Web, Mobile e Backend | 🤖 Automação e Inteligência Artificial
+  🚀 Web, Mobile, Backend, Automação e Inteligência Artificial
 </p>
 
 <br><br>
 
-## 🚀 Linguagens e Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,html,css,php)](https://skillicons.dev)
-
-<br>
-
-## 🛠️ Ferramentas, Banco de Dados e Infraestrutura
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,git,github,linux,docker,nginx)](https://skillicons.dev)
-
-<br>
-
-## 💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor de Software Júnior**, formado como **Técnico em Desenvolvimento de Sistemas pelo SENAI** e atualmente cursando **Ensino Superior em Análise e Desenvolvimento de Sistemas pela Faculdade CDL**.
 
-Tenho experiência no desenvolvimento de aplicações **Web, Mobile e Backend**, trabalhando com JavaScript, TypeScript, Node.js, React Native, Python, HTML, CSS, PHP, SQL e APIs REST.
+Tenho experiência no desenvolvimento de aplicações **Web, Mobile e Backend**, utilizando diferentes tecnologias para transformar ideias e necessidades em soluções funcionais.
 
-Também possuo conhecimentos em **banco de dados, lógica de programação, programação orientada a objetos, algoritmos, estruturas de dados, redes de computadores, sistemas operacionais, engenharia de software, análise de sistemas, qualidade de software, segurança da informação e gerenciamento de projetos de TI**.
+Ao longo da minha formação e dos projetos desenvolvidos, trabalhei com **sistemas, aplicações, sites, APIs, automações, dashboards, bancos de dados e infraestrutura**, buscando sempre desenvolver soluções organizadas, escaláveis e de fácil manutenção.
 
-Ao longo da minha formação e dos projetos desenvolvidos, trabalhei na criação de **sistemas, aplicações, sites, automações, integrações, dashboards e soluções para diferentes necessidades**, buscando sempre desenvolver código organizado, escalável e de fácil manutenção.
+Também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, aplicando IA em pesquisa, análise, produtividade, revisão de código, automação e resolução de problemas.
 
-Também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, aplicando-a em pesquisa, análise, produtividade, revisão de código e resolução de problemas.
+<br>
+
+## 🚀 Linguagens de Programação
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,php,html,css)](https://skillicons.dev)
+
+<br><br>
+
+## ⚛️ Frameworks e Desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+<br><br>
+
+## 🗄️ Banco de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase)](https://skillicons.dev)
+
+<br><br>
+
+## 🛠️ Ferramentas e Infraestrutura
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,nginx,cloudflare)](https://skillicons.dev)
+
+<br><br>
+
+## 🤖 Inteligência Artificial
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<br>
+
+## 🧠 Conhecimentos
+
+* Lógica de Programação
+* Algoritmos e Estruturas de Dados
+* Programação Orientada a Objetos
+* Banco de Dados e SQL
+* APIs REST
+* Engenharia de Software
+* Análise de Sistemas
+* Redes de Computadores
+* Sistemas Operacionais
+* Segurança da Informação
+* Qualidade de Software
+* Gerenciamento de Projetos de TI
 
 <br>
 
@@ -41,11 +79,12 @@ Também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolv
 * 💻 Desenvolvimento de Software
 * 🌐 Desenvolvimento Web
 * 📱 Desenvolvimento Mobile
-* ⚙️ Backend e APIs REST
+* ⚙️ Backend
 * 🎨 Front-end
+* 🔌 APIs REST
 * 🗄️ Banco de Dados
-* 🤖 Automação e Inteligência Artificial
-* 🔐 Segurança da Informação
+* 🤖 Inteligência Artificial
+* 🔄 Automação de Processos
 * 🧪 QA e Qualidade de Software
 * 🖥️ Infraestrutura e Servidores
 
@@ -61,6 +100,18 @@ SENAI — Concluído
 
 <br>
 
+## 🌐 Portfólio
+
+<p align="center">
+  <a href="https://fabr.iicio.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20MEU%20PORTFÓLIO-0078D4?style=for-the-badge" />
+  </a>
+</p>
+
+Meu portfólio reúne projetos e aplicações desenvolvidos na prática, incluindo **sistemas Web, aplicativos Mobile, automações, dashboards e outras soluções de software**.
+
+<br>
+
 ## 📊 GitHub
 
 <p align="center">
@@ -70,18 +121,6 @@ SENAI — Concluído
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisfabricio&layout=compact&theme=radical" />
 </p>
-
-<br>
-
-## 🌐 Portfólio
-
-<p align="center">
-  <a href="https://fabr.iicio.com.br">
-    <img src="https://img.shields.io/badge/🌐%20MEU%20PORTFÓLIO-0078D4?style=for-the-badge" />
-  </a>
-</p>
-
-Meu portfólio reúne aplicações e projetos desenvolvidos na prática, incluindo **sistemas Web, aplicativos Mobile, automações, dashboards e outras soluções de software**.
 
 <br>
 
@@ -107,14 +146,14 @@ Meu portfólio reúne aplicações e projetos desenvolvidos na prática, incluin
 
 </p>
 
-<br>
+<br><br>
 
 ---
 
 <p align="center">
-  <b>🚀 Transformando ideias em soluções digitais.</b>
+  🚀 <b>Transformando ideias em soluções digitais.</b>
 </p>
 
 <p align="center">
-  Fique à vontade para conhecer meus projetos ou entrar em contato para conversarmos sobre tecnologia, desenvolvimento e novos projetos. 😊
+  Fique à vontade para conhecer meus projetos, acompanhar meu trabalho ou entrar em contato para conversarmos sobre tecnologia, desenvolvimento e novos projetos. 😊
 </p>
